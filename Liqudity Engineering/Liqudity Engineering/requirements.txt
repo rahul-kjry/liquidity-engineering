@@ -1,0 +1,7 @@
+statsmodels
+arch
+scikit-learn
+matplotlib
+seaborn
+plotly
+pandas
